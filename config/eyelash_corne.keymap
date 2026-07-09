@@ -27,8 +27,8 @@
 };
 
 &mt {
-  flavor = "tap-preferred";
-}
+    flavor = "tap-preferred";
+};
 
 &soft_off { hold-time-ms = <2000>; };
 
