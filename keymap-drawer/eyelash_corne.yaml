@@ -4,8 +4,8 @@ layers:
   - $$mdi:keyboard-tab$$
   - Q
   - W
-  - E
-  - R
+  - {t: E, h: LGUI}
+  - {t: R, h: '$$mdi:apple-keyboard-option$$'}
   - T
   - $$mdi:arrow-up-bold$$
   - Y
