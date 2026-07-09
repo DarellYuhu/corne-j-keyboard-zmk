@@ -3,3 +3,7 @@ zmk/
 modules/
 tools/
 .west/
+.zmk-module/
+eyelash_corne/
+zephyr/
+!zephyr/module.yml
