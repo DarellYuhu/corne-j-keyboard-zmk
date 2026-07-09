@@ -7,7 +7,7 @@ layers:
   - {t: E, h: LGUI}
   - {t: R, h: '$$mdi:apple-keyboard-option$$'}
   - T
-  - CR BRI UP
+  - $$mdi:brightness-5$$
   - Y
   - U
   - {t: I, h: RGUI}
@@ -36,7 +36,7 @@ layers:
   - {t: V, h: MOUSE}
   - B
   - $$mdi:keyboard-space$$
-  - CR BRI DOWN
+  - $$mdi:brightness-7$$
   - N
   - M
   - {t: ',', s: <}
@@ -136,8 +136,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - _
-  - PG UP
-  - PG DOWN
+  - PgUp
+  - PgDn
   - '}'
   - '|'
   - '~'
