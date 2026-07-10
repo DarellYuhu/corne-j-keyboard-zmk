@@ -113,7 +113,7 @@
             bindings = <
 &trans  &trans    &trans  &trans         &trans  &trans                               &trans                          &trans          &kp PAGE_UP        &trans        &trans           &kp PSCRN  &trans
 &trans  &mkp MB1  &trans  &kp PAGE_DOWN  &trans  &trans               &trans          &trans          &trans          &mmv MOVE_LEFT  &mmv MOVE_DOWN     &mmv MOVE_UP  &mmv MOVE_RIGHT  &trans     &trans
-&trans  &trans    &trans  &trans         &trans  &trans  &trans                       &trans                          &trans          &mkp MB1           &mkp MB3      &mkp MB2         &trans     &trans
+&trans  &soft_off &trans  &trans         &trans  &trans  &trans                       &trans                          &trans          &mkp MB1           &mkp MB3      &mkp MB2         &trans     &trans
                           &trans         &trans  &trans                                                               &caps_word      &trans             &trans
             >;
 
